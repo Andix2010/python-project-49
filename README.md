@@ -10,3 +10,6 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Andix2010_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Andix2010_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Andix2010_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Andix2010_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Andix2010_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Andix2010_python-project-49)
+
+Demonstration:
+[![asciicast](https://asciinema.org/a/4l54kjRtLK9D8kr9.svg)](https://asciinema.org/a/4l54kjRtLK9D8kr9)
