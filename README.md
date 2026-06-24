@@ -12,4 +12,7 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Andix2010_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Andix2010_python-project-49)
 
 Demonstration:
+-even game
 [![asciicast](https://asciinema.org/a/4l54kjRtLK9D8kr9.svg)](https://asciinema.org/a/4l54kjRtLK9D8kr9)
+-calc game
+[![asciicast](https://asciinema.org/a/5gbo4jcTTQDEF64G.svg)](https://asciinema.org/a/5gbo4jcTTQDEF64G)
