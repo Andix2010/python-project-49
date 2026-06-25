@@ -24,23 +24,23 @@
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/Andix2010/python-project-49.git
-   cd python-project-49
+git clone https://github.com/Andix2010/python-project-49.git
+cd python-project-49
 ```
 
 2. Install package:
 
 ```bash
-    make package-install
+make package-install
 ```
 
 3. Run one of the five games:
 
-    - brain-even
-    - brain-calc
-    - brain-gcd
-    - brain-progression
-    - brain-prime
+- brain-even
+- brain-calc
+- brain-gcd
+- brain-progression
+- brain-prime
 
 **Demonstration:**
 
