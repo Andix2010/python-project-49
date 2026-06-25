@@ -16,3 +16,5 @@
 [![asciicast](https://asciinema.org/a/4l54kjRtLK9D8kr9.svg)](https://asciinema.org/a/4l54kjRtLK9D8kr9)
 - calc game
 [![asciicast](https://asciinema.org/a/5gbo4jcTTQDEF64G.svg)](https://asciinema.org/a/5gbo4jcTTQDEF64G)
+- gcd game
+[![asciicast](https://asciinema.org/a/k9GAo0t7DVHhqBaY.svg)](https://asciinema.org/a/k9GAo0t7DVHhqBaY)
