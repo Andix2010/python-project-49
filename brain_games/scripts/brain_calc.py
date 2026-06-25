@@ -1,6 +1,6 @@
 from brain_games.cli import welcome_user
-from brain_games.greeting import greet
 from brain_games.games.calc_game import run_calc_game
+from brain_games.greeting import greet
 
 
 def main():
