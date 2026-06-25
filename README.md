@@ -18,3 +18,5 @@
 [![asciicast](https://asciinema.org/a/5gbo4jcTTQDEF64G.svg)](https://asciinema.org/a/5gbo4jcTTQDEF64G)
 - gcd game
 [![asciicast](https://asciinema.org/a/k9GAo0t7DVHhqBaY.svg)](https://asciinema.org/a/k9GAo0t7DVHhqBaY)
+- progression game
+[![asciicast](https://asciinema.org/a/6OT7NIdvhxewFvzG.svg)](https://asciinema.org/a/6OT7NIdvhxewFvzG)
