@@ -42,8 +42,9 @@ make package-install
 - brain-progression
 - brain-prime
 
-**Demonstration:**
-
+<details>
+<summary><h2><strong>Demonstration:</strong></h2> (click)</summary>
+  
 - even game
 [![asciicast](https://asciinema.org/a/4l54kjRtLK9D8kr9.svg)](https://asciinema.org/a/4l54kjRtLK9D8kr9)
 - calc game
@@ -54,3 +55,5 @@ make package-install
 [![asciicast](https://asciinema.org/a/6OT7NIdvhxewFvzG.svg)](https://asciinema.org/a/6OT7NIdvhxewFvzG)
 - prime game
 [![asciicast](https://asciinema.org/a/vDvxWbJ6QX9CR6Qq.svg)](https://asciinema.org/a/vDvxWbJ6QX9CR6Qq)
+
+</details>
